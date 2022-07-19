@@ -2,9 +2,6 @@
 
 <div align=center>
     <h1>📚 STACKS</h1>
-    
-[![trophy](https://github-profile-trophy.vercel.app/?username=moonthree)](https://github.com/ryo-ma/github-profile-trophy)
-
 </div>
 <div align=center>
     <h3>:baby_chick: used as the main</h3>
