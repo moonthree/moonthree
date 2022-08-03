@@ -22,14 +22,14 @@
     <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </div>
 
-<div align=center>
+<div align = center>
+<br>
 <br>
 
 [![moonthree's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=moonthree&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/moonthree)
+<img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=fpdhslr7">
+</div>
+<div align=center>
 
 ![moonthree's github stats](https://github-readme-stats.vercel.app/api?username=moonthree&show_icons=true)
-
 </div>
-
-
-
